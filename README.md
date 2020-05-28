@@ -1,6 +1,6 @@
-#  # Project Title: Employee-Management-System :raised_hands:
-  - System allowing companies to easily organize employees at their company by role, department, and salary. :bulb: 
-    ![Database Schema](Assets/schema.png)
+#  # Project Title: Employee-Management-System
+  - System allowing companies to easily organize employees at their company by role, department, and salary. 
+
   ## Table of Contents:
   - [User Story](#user-story-speech_balloon)
   - [Installation](#installation-floppy_disk)
