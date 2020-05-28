@@ -6,14 +6,14 @@
   - [Installation](#installation-floppy_disk)
 
   
-  ### User Story :speech_balloon:
+  ### User Story 
     ```
     As a business owner
     I want to be able to view and manage the departments, roles, and employees in my company
     So that I can organize and plan my business
     ```
   
-  ###  Installation :floppy_disk::
+  ###  Installation 
   > npm i mysql2
   > npm i console.table
   > npm i inquirer
